@@ -1,3 +1,3 @@
-# Leetcode-SQL-Study-Plan
+# Leetcode-SQL-Problems
 
-Here you will find Leetcode SQL problems and my solutions to them
+Here you will find interesting Leetcode SQL problems and my solutions to them
